@@ -1,0 +1,17 @@
+{
+  "name": "learningnode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "webserver.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+    
+  },
+  "author": "Chakshu Jain",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "uuid": "^8.2.0"
+  }
+}
