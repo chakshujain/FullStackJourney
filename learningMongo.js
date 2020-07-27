@@ -1,3 +1,5 @@
+// Cheat Sheet Credits - Brad Traversy
+
 // Inserting a row
 db.posts.insert({
     title:'Post 1',
